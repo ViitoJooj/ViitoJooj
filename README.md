@@ -52,7 +52,8 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 
 ## About Me
 
-- 21y — Developer from Brazil 🇧🇷  
+- 21y
+- Developer from Brazil 🇧🇷  
 - Passionate about **performance**, **backend**, and modern tools
 - Focused on **Golang**
 - I like to create things that are quick, direct and useful
