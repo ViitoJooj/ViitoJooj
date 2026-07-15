@@ -21,7 +21,6 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 </div>
 
 ### **Frontend**
-### **Frontend**
 <div align="left">
 
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
