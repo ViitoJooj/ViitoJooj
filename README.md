@@ -24,6 +24,7 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 <div align="left">
 
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF3E00?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,6 +35,7 @@ Currently, my main stack revolves around Go, Rust, Svelte, React, and tools gear
 <div align="left">
 
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-24C8DB?style=for-the-badge&logo=terraform&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
